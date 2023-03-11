@@ -35,7 +35,7 @@ nav div {
 
 
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
     .navigation {
         flex-direction: column;
         gap: 0;
